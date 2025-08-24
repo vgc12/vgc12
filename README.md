@@ -1,6 +1,6 @@
 - I’m @vgc12 or Zaid
 - 👀 I’m interested in game development
-- 🌱 I’m currently learning Godot and OpenGL
+- 🌱 I’m currently learning Godot and WebGPU
 
 
 <!---
